@@ -17,7 +17,7 @@ public class Driver {
 		member.add(new Profile("004", "Juda", "BenHur", "juda@hotmail.com", " ", "1" ));
 		member.add(new Profile("005", "James", "Miller", "james@hotmail.com", " ", "0" ));
 		
-		//Loading friends' Linkships
+		//Loading Relations
 		ArrayList<Link> link = new ArrayList<>();
 		link.add(new Link("James", "Rob", "friend"));
 		link.add(new Link("Philip", "Elizabeth", "friend"));
