@@ -2,7 +2,7 @@ package socialnet;
 
 public class Dependent{
 	
-	private String dependentName;
+	private String depende
 	private int dependentAge;
 
 public Dependent(String dependentName, int dependentAge) {
